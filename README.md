@@ -11,5 +11,5 @@ This repository contains the different machine learning models that were taught 
 - Lab 5: Support Vector Machine
 - Lab 6: Linear Regression
 - Lab 7: Neural Network (TensorFlow)
-- Lab 9: Agglomerative
-- Lab 10: K-Means
+- Lab 9: Agglomerative Clustering
+- Lab 10: K-Means Clustering
