@@ -1,6 +1,6 @@
 # CPC251 - Machine Learning and Computational Intelligence
 
-This repository contains the different machine learning models that were taught in the lab.
+This repository contains the different machine learning models trained in the course's lab.
 
 - Lab 1: Introduction to NumPy and Pandas
 - Lab 2:
