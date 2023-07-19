@@ -1,4 +1,4 @@
-# CPC251 - Machine Learning and Computational Intelligence
+# Basic Machine Learning Models
 
 This repository contains the different machine learning models trained in the course's lab.
 
