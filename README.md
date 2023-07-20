@@ -1,6 +1,6 @@
 # Basic Machine Learning Models
 
-This repository contains the different machine learning models trained in the course's lab.
+This repository contains the code for different basic machine learning models.
 
 - Lab 1: Introduction to NumPy and Pandas
 - Lab 2:
